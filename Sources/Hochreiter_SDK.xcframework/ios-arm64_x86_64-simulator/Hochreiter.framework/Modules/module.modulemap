@@ -1,0 +1,11 @@
+framework module Hochreiter {
+  umbrella header "Hochreiter.h"
+
+  export *
+  module * { export * }
+}
+
+module Hochreiter.Swift {
+    header "Hochreiter-Swift.h"
+    requires objc
+}
