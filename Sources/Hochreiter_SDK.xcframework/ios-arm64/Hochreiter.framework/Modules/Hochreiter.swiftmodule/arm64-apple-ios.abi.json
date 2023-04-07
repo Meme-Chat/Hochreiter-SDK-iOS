@@ -20,6 +20,66 @@
         "printedName": "CatagoriesMemes",
         "children": [
           {
+            "kind": "Var",
+            "name": "catMemeList",
+            "printedName": "catMemeList",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Hochreiter.MemeList]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MemeList",
+                    "printedName": "Hochreiter.MemeList",
+                    "usr": "s:10Hochreiter8MemeListV"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10Hochreiter15CatagoriesMemesV11catMemeListSayAA0eF0VGvp",
+            "mangledName": "$s10Hochreiter15CatagoriesMemesV11catMemeListSayAA0eF0VGvp",
+            "moduleName": "Hochreiter",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Hochreiter.MemeList]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MemeList",
+                        "printedName": "Hochreiter.MemeList",
+                        "usr": "s:10Hochreiter8MemeListV"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10Hochreiter15CatagoriesMemesV11catMemeListSayAA0eF0VGvg",
+                "mangledName": "$s10Hochreiter15CatagoriesMemesV11catMemeListSayAA0eF0VGvg",
+                "moduleName": "Hochreiter",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(from:)",
@@ -141,6 +201,60 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "logMemeShared",
+            "printedName": "logMemeShared(mid:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10Hochreiter0A3SDKV13logMemeShared3midySi_tFZ",
+            "mangledName": "$s10Hochreiter0A3SDKV13logMemeShared3midySi_tFZ",
+            "moduleName": "Hochreiter",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "logMemeViewed",
+            "printedName": "logMemeViewed(mid:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10Hochreiter0A3SDKV13logMemeViewed3midySi_tFZ",
+            "mangledName": "$s10Hochreiter0A3SDKV13logMemeViewed3midySi_tFZ",
+            "moduleName": "Hochreiter",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -406,6 +520,66 @@
         "printedName": "SearchMemes",
         "children": [
           {
+            "kind": "Var",
+            "name": "memeList",
+            "printedName": "memeList",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Hochreiter.MemeList]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MemeList",
+                    "printedName": "Hochreiter.MemeList",
+                    "usr": "s:10Hochreiter8MemeListV"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10Hochreiter11SearchMemesV8memeListSayAA04MemeE0VGvp",
+            "mangledName": "$s10Hochreiter11SearchMemesV8memeListSayAA04MemeE0VGvp",
+            "moduleName": "Hochreiter",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Hochreiter.MemeList]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MemeList",
+                        "printedName": "Hochreiter.MemeList",
+                        "usr": "s:10Hochreiter8MemeListV"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10Hochreiter11SearchMemesV8memeListSayAA04MemeE0VGvg",
+                "mangledName": "$s10Hochreiter11SearchMemesV8memeListSayAA04MemeE0VGvg",
+                "moduleName": "Hochreiter",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(from:)",
@@ -486,6 +660,182 @@
         "name": "MemeList",
         "printedName": "MemeList",
         "children": [
+          {
+            "kind": "Var",
+            "name": "mid",
+            "printedName": "mid",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10Hochreiter8MemeListV3midSivp",
+            "mangledName": "$s10Hochreiter8MemeListV3midSivp",
+            "moduleName": "Hochreiter",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10Hochreiter8MemeListV3midSivg",
+                "mangledName": "$s10Hochreiter8MemeListV3midSivg",
+                "moduleName": "Hochreiter",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "url",
+            "printedName": "url",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10Hochreiter8MemeListV3urlSSvp",
+            "mangledName": "$s10Hochreiter8MemeListV3urlSSvp",
+            "moduleName": "Hochreiter",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10Hochreiter8MemeListV3urlSSvg",
+                "mangledName": "$s10Hochreiter8MemeListV3urlSSvg",
+                "moduleName": "Hochreiter",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "height",
+            "printedName": "height",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10Hochreiter8MemeListV6heightSivp",
+            "mangledName": "$s10Hochreiter8MemeListV6heightSivp",
+            "moduleName": "Hochreiter",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10Hochreiter8MemeListV6heightSivg",
+                "mangledName": "$s10Hochreiter8MemeListV6heightSivg",
+                "moduleName": "Hochreiter",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "width",
+            "printedName": "width",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10Hochreiter8MemeListV5widthSivp",
+            "mangledName": "$s10Hochreiter8MemeListV5widthSivp",
+            "moduleName": "Hochreiter",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10Hochreiter8MemeListV5widthSivg",
+                "mangledName": "$s10Hochreiter8MemeListV5widthSivg",
+                "moduleName": "Hochreiter",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
           {
             "kind": "Constructor",
             "name": "init",
@@ -637,6 +987,94 @@
         "printedName": "Cats",
         "children": [
           {
+            "kind": "Var",
+            "name": "name",
+            "printedName": "name",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10Hochreiter4CatsV4nameSSvp",
+            "mangledName": "$s10Hochreiter4CatsV4nameSSvp",
+            "moduleName": "Hochreiter",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10Hochreiter4CatsV4nameSSvg",
+                "mangledName": "$s10Hochreiter4CatsV4nameSSvg",
+                "moduleName": "Hochreiter",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "identity",
+            "printedName": "identity",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10Hochreiter4CatsV8identitySSvp",
+            "mangledName": "$s10Hochreiter4CatsV8identitySSvp",
+            "moduleName": "Hochreiter",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10Hochreiter4CatsV8identitySSvg",
+                "mangledName": "$s10Hochreiter4CatsV8identitySSvg",
+                "moduleName": "Hochreiter",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(from:)",
@@ -740,14 +1178,14 @@
     {
       "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/Hochreiter\/Models\/Corp\/CatagoriesMemes.swift",
       "kind": "StringLiteral",
-      "offset": 319,
+      "offset": 326,
       "length": 9,
       "value": "\"objects\""
     },
     {
       "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/Hochreiter\/Models\/Corp\/CatagoriesMemes.swift",
       "kind": "StringLiteral",
-      "offset": 319,
+      "offset": 326,
       "length": 9,
       "value": "\"objects\""
     },
@@ -761,21 +1199,21 @@
     {
       "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/Hochreiter\/HochreiterSDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 1573,
+      "offset": 1993,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/Hochreiter\/Models\/Corp\/SearchMemes.swift",
       "kind": "StringLiteral",
-      "offset": 305,
+      "offset": 312,
       "length": 9,
       "value": "\"objects\""
     },
     {
       "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/Hochreiter\/Models\/Corp\/SearchMemes.swift",
       "kind": "StringLiteral",
-      "offset": 305,
+      "offset": 312,
       "length": 9,
       "value": "\"objects\""
     },
@@ -880,14 +1318,14 @@
     {
       "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/Hochreiter\/Models\/Corp\/Categories.swift",
       "kind": "StringLiteral",
-      "offset": 284,
+      "offset": 291,
       "length": 9,
       "value": "\"objects\""
     },
     {
       "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/Hochreiter\/Models\/Corp\/Categories.swift",
       "kind": "StringLiteral",
-      "offset": 284,
+      "offset": 291,
       "length": 9,
       "value": "\"objects\""
     },
