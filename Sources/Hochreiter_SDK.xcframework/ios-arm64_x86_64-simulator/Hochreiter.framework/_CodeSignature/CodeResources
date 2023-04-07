@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/Hochreiter.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		e88NkQIEww+GdgMGEK8vt+7O2mc=
+		QzhIba8jAX/cvhbYR7CKmo/4/L0=
 		</data>
 		<key>Modules/Hochreiter.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/Hochreiter.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		e88NkQIEww+GdgMGEK8vt+7O2mc=
+		QzhIba8jAX/cvhbYR7CKmo/4/L0=
 		</data>
 		<key>Modules/Hochreiter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ox1ngeECoIqfuBjSOrJ4h3DbUQtjJ7IKOrnuJtsFuzA=
+			RR2OrgqA+GnBNIScYwIgEt4KmNfp1B25h09kvpXUo9c=
 			</data>
 		</dict>
 		<key>Modules/Hochreiter.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -116,7 +116,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ox1ngeECoIqfuBjSOrJ4h3DbUQtjJ7IKOrnuJtsFuzA=
+			RR2OrgqA+GnBNIScYwIgEt4KmNfp1B25h09kvpXUo9c=
 			</data>
 		</dict>
 		<key>Modules/Hochreiter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
