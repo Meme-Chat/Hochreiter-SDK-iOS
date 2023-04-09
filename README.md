@@ -17,7 +17,7 @@ Here are the steps to add Hochreiter SDK via SPM (Swift Package Manager):
 - Select the project’s target you want to add the SDK to.
 - Select the "Swift Packages" tab in the project editor.
 - Click the "+" button to add a new package.
-- In the "Choose Package Repository" dialog, enter the URL of the SDK repository: https://github.com/Meme-Chat/Hochreiter-SDK-iOS.git.
+- In the "Choose Package Repository" dialog, enter the URL of the SDK repository: https://github.com/Meme-Chat/Hochreiter-SDK-iOS/releases/tag/1.0.0.
 - Click "Next" and select the version of the SDK you want to use.
 - Click "Next" again and choose the target you want to add the SDK to.
 - Click "Finish" to add the SDK to your project.
