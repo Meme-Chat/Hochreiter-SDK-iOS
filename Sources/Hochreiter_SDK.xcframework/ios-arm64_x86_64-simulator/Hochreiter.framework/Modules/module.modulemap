@@ -6,6 +6,6 @@ framework module Hochreiter {
 }
 
 module Hochreiter.Swift {
-  header "Hochreiter-Swift.h"
-  requires objc
+    header "Hochreiter-Swift.h"
+    requires objc
 }
