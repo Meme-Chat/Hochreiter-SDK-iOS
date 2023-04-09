@@ -6,7 +6,7 @@ This SDK is designed to help developers easily integrate memes into their iOS ap
 
 ## Getting Started:
 
-To use the iOS Hochreiter SDK in your application, there are 2 options.Simply download the [xcframwork](www.google.com) file and add it to your project. Other option is Swift Package Manager.You can then import the SDK into your code and start using it right away.
+To use the iOS Hochreiter SDK in your application, there are 2 options.Simply download the [xcframwork](https://github.com/Meme-Chat/Hochreiter-SDK-iOS/releases/tag/1.0.0) file and add it to your project. Other option is Swift Package Manager.You can then import the SDK into your code and start using it right away.
 
 
 ## 🎉 Installation SPM(Swift Package Manager)
@@ -17,7 +17,7 @@ Here are the steps to add Hochreiter SDK via SPM (Swift Package Manager):
 - Select the project’s target you want to add the SDK to.
 - Select the "Swift Packages" tab in the project editor.
 - Click the "+" button to add a new package.
-- In the "Choose Package Repository" dialog, enter the URL of the SDK repository: https://github.com/Meme-Chat/Hochreiter-SDK-iOS/releases/tag/1.0.0
+- In the "Choose Package Repository" dialog, enter the URL of the SDK repository: https://github.com/Meme-Chat/Hochreiter-SDK-iOS.git.
 - Click "Next" and select the version of the SDK you want to use.
 - Click "Next" again and choose the target you want to add the SDK to.
 - Click "Finish" to add the SDK to your project.
