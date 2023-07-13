@@ -1,35 +1,38 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)
+// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
 // swift-module-flags: -target x86_64-apple-ios14.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name Hochreiter
+// swift-module-flags-ignorable: -enable-bare-slash-regex
 import Foundation
 @_exported import Hochreiter
 import Swift
 import _Concurrency
+import _StringProcessing
+import os
 public struct CatagoriesMemes : Swift.Codable {
   public let catMemeList: [Hochreiter.MemeList]
-  public func encode(to encoder: Swift.Encoder) throws
-  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
 }
-public struct HochreiterSDK {
+public struct Hochreiter {
   public static func configure(uname: Swift.String, pass: Swift.String)
   public static func logMemeShared(mid: Swift.Int)
   public static func logMemeViewed(mid: Swift.Int)
   public static func fetchCatagories(showEmoticons: Swift.Bool = true, completionHandler: @escaping (Swift.Result<[Hochreiter.Cats], Hochreiter.HUNetworkError>) -> Swift.Void)
   public static func logEvent(eventName: Swift.String, id1: Swift.Int, id2: Swift.Int)
-  public static func fetchCatagoriesMemes(categoryId: Swift.String, page: Swift.Int, completionHandler: @escaping (Swift.Result<Hochreiter.CatagoriesMemes, Hochreiter.HUNetworkError>) -> Swift.Void)
-  public static func fetchMemesWith(searchTerm: Swift.String, page: Swift.Int, completionHandler: @escaping (Swift.Result<Hochreiter.SearchMemes, Hochreiter.HUNetworkError>) -> Swift.Void)
+  public static func fetchCatagoriesMemes(categoryId: Swift.String, page: Swift.Int, completionHandler: @escaping (Swift.Result<[Hochreiter.MemeList], Hochreiter.HUNetworkError>) -> Swift.Void)
+  public static func fetchMemesWith(searchTerm: Swift.String, page: Swift.Int, completionHandler: @escaping (Swift.Result<[Hochreiter.MemeList], Hochreiter.HUNetworkError>) -> Swift.Void)
 }
 public struct SearchMemes : Swift.Codable {
   public let memeList: [Hochreiter.MemeList]
-  public func encode(to encoder: Swift.Encoder) throws
-  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
 }
 public struct MemeList : Swift.Codable {
   public let mid: Swift.Int
   public let url: Swift.String
   public let height: Swift.Int, width: Swift.Int
-  public func encode(to encoder: Swift.Encoder) throws
-  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
 }
 public struct HUNetworkError : Swift.Error {
   public let reason: Swift.String
@@ -37,6 +40,6 @@ public struct HUNetworkError : Swift.Error {
 }
 public struct Cats : Swift.Codable {
   public let name: Swift.String, identity: Swift.String
-  public func encode(to encoder: Swift.Encoder) throws
-  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
 }

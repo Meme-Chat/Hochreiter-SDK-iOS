@@ -6,7 +6,7 @@ This SDK is designed to help developers easily integrate memes into their iOS ap
 
 ## Getting Started:
 
-To use the iOS Hochreiter SDK in your application, there are 2 options.Simply download the [xcframwork](https://github.com/Meme-Chat/Hochreiter-SDK-iOS/releases/tag/1.0.0) file and add it to your project. Other option is Swift Package Manager.You can then import the SDK into your code and start using it right away.
+To use the iOS Hochreiter SDK in your application, there are 2 options.Simply download the [xcframework](https://github.com/Meme-Chat/Hochreiter-SDK-iOS/releases/tag/1.0.0) file and add it to your project. Other option is Swift Package Manager.You can then import the SDK into your code and start using it right away.
 
 
 ## 🎉 Installation SPM(Swift Package Manager)
@@ -101,7 +101,7 @@ HochreiterSDK.fetchCatagoriesMemes(categoryId: "Hochreiter.Cats.identity", page:
 Here category_Id is `Hochreiter.Cats.identity`
 
 
-The completion handler receives a Result enum with either the fetched `Hochreiter.CatagoriesMemes` object or a Hochreiter.HUNetworkError error.
+The completion handler receives a Result enum with either the fetched `Hochreiter.memes` object list or a Hochreiter.HUNetworkError error.
 
 the CatagoriesMemes struct has the following properties:
 
