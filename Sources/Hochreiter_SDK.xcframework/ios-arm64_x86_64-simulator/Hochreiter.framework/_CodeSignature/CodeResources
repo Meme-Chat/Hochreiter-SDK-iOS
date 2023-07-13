@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Hochreiter-Swift.h</key>
 		<data>
-		2IXyhdiD354uX3yQyfQcbnq3jrg=
+		RsDmDvN102PAHXOoUAG6K+robzM=
 		</data>
 		<key>Headers/Hochreiter.h</key>
 		<data>
@@ -14,59 +14,51 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zo7axVAJTIJyFSiz+9W7NKfk3Vo=
+		krCBZXcyVl+yTQ7lv1buEs9cXhI=
+		</data>
+		<key>Modules/Hochreiter.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		Jhr3i5mlZj9JlzNsbaFlKFFhB+Y=
+		</data>
+		<key>Modules/Hochreiter.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		qrlW31tsprlT1+GrCzA4K5yzELw=
 		</data>
 		<key>Modules/Hochreiter.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		XlznM0zYlc1QO5gMB59S3l7S7+c=
+		LL7OH/SXh/WjPIZWfl6Wv7qx24Y=
 		</data>
 		<key>Modules/Hochreiter.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		16WpyGL96rUfdQ0NxQPRnutlGwc=
+		qrlW31tsprlT1+GrCzA4K5yzELw=
 		</data>
 		<key>Modules/Hochreiter.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ATtUlOrekUoA7aSb1w5jKyl4O5o=
+		odBmLsq+HJYS2OWVq5KqUSXvW5A=
 		</data>
-		<key>Modules/Hochreiter.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/Hochreiter.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		XlznM0zYlc1QO5gMB59S3l7S7+c=
+		Jhr3i5mlZj9JlzNsbaFlKFFhB+Y=
 		</data>
-		<key>Modules/Hochreiter.swiftmodule/arm64.swiftinterface</key>
+		<key>Modules/Hochreiter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		16WpyGL96rUfdQ0NxQPRnutlGwc=
-		</data>
-		<key>Modules/Hochreiter.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		ATtUlOrekUoA7aSb1w5jKyl4O5o=
+		+e76Ltf5Jq1RZowclwUjQM91czw=
 		</data>
 		<key>Modules/Hochreiter.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		tDC2Y8ezdMfASa4+SGVIwyu7kxQ=
+		9Rk+7vqkmyZN4mzf6nhr8Vq3n58=
 		</data>
 		<key>Modules/Hochreiter.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		W7TeOGWIXXDFQXAZJq0Xyatx0RQ=
+		+e76Ltf5Jq1RZowclwUjQM91czw=
 		</data>
 		<key>Modules/Hochreiter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		g/q4fzKGPxENz7LjnRPMrYsUi74=
-		</data>
-		<key>Modules/Hochreiter.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		tDC2Y8ezdMfASa4+SGVIwyu7kxQ=
-		</data>
-		<key>Modules/Hochreiter.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		W7TeOGWIXXDFQXAZJq0Xyatx0RQ=
-		</data>
-		<key>Modules/Hochreiter.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		g/q4fzKGPxENz7LjnRPMrYsUi74=
+		aU67A4/vJaUuNo6I8Olje8LyHik=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		jmZs7+faT4x4IwZwOExz3tQ6RAE=
+		+BJQf1v9uVOxPHbMcKwVV+3TVSw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -75,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			W/WxE0rAx3jU/uebjJrGhKpHGembJrg1tyDqmUh3Tsg=
+			82O9nBoImYd8MuF61uuiDMndq0SWnWhydVyLdWS2yiI=
 			</data>
 		</dict>
 		<key>Headers/Hochreiter.h</key>
@@ -85,95 +77,81 @@
 			atMv3qgW1yWkI+gWFoP6VRyFYKIe8UzkkZAo/H59GTo=
 			</data>
 		</dict>
+		<key>Modules/Hochreiter.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NMsTnWTkOaks4tqEdcxkYcDJFP+p5JThVnruJwkRHtI=
+			</data>
+		</dict>
+		<key>Modules/Hochreiter.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mBu/1A5dRWe3ZCKU2ioDQ6UsNXvFP2/1pq0eefG9E2g=
+			</data>
+		</dict>
 		<key>Modules/Hochreiter.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HgdWpUZyy19A8wntJOfIgTCvMtdA4+hxEDzLdIIJawI=
+			Cj39b5YPe1byp2TYAi8x3NVMOnm+AffUQ5GdSdrjrCo=
 			</data>
 		</dict>
 		<key>Modules/Hochreiter.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7YNHa7Ujoz4WsQ3JjokDBQ8DiQ8TjNoesmcGfev5HdY=
+			mBu/1A5dRWe3ZCKU2ioDQ6UsNXvFP2/1pq0eefG9E2g=
 			</data>
 		</dict>
 		<key>Modules/Hochreiter.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6K8LVV3ilzoLLIbfyT8eyCy2DmAt/8I+VoNPIyasVoI=
+			Yg3e02Rgrv/Tm/szUORsOYROykS9fhBS05i9Ttt2VQ0=
 			</data>
 		</dict>
-		<key>Modules/Hochreiter.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/Hochreiter.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HgdWpUZyy19A8wntJOfIgTCvMtdA4+hxEDzLdIIJawI=
+			NMsTnWTkOaks4tqEdcxkYcDJFP+p5JThVnruJwkRHtI=
 			</data>
 		</dict>
-		<key>Modules/Hochreiter.swiftmodule/arm64.swiftinterface</key>
+		<key>Modules/Hochreiter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7YNHa7Ujoz4WsQ3JjokDBQ8DiQ8TjNoesmcGfev5HdY=
-			</data>
-		</dict>
-		<key>Modules/Hochreiter.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6K8LVV3ilzoLLIbfyT8eyCy2DmAt/8I+VoNPIyasVoI=
+			N5qUdiftEAJn+r0PdcdGFfcVruNDJKb9qBZBaphXbEU=
 			</data>
 		</dict>
 		<key>Modules/Hochreiter.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1vObnBwpZ8PPNi1DEO75Vmej1p8f0SxiVDwVocY3YSg=
+			iJ6Fvh2XgAKRxZqZ9zlC9PT/maniy75bGc/0R4NcJTg=
 			</data>
 		</dict>
 		<key>Modules/Hochreiter.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JIeF1eR8/IXfrExf6FQQnbHQfmc3qXMhZ+z553h6k68=
+			N5qUdiftEAJn+r0PdcdGFfcVruNDJKb9qBZBaphXbEU=
 			</data>
 		</dict>
 		<key>Modules/Hochreiter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P4bpC3P9xjvFMx3nhYDt4qBportKUFkbYCzO+u2Qet4=
-			</data>
-		</dict>
-		<key>Modules/Hochreiter.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1vObnBwpZ8PPNi1DEO75Vmej1p8f0SxiVDwVocY3YSg=
-			</data>
-		</dict>
-		<key>Modules/Hochreiter.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JIeF1eR8/IXfrExf6FQQnbHQfmc3qXMhZ+z553h6k68=
-			</data>
-		</dict>
-		<key>Modules/Hochreiter.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			P4bpC3P9xjvFMx3nhYDt4qBportKUFkbYCzO+u2Qet4=
+			yNy33gR+wY05Lrw7UAEHAF9nKuRic76JZ8NZDbhyKvI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EcvJ2mbpdX9gOkmY7e/tMkl9DqsRjgnoAQBcmzRXNR4=
+			DSiVFXoNEW0WKyqNjFF3paz3xfyh+hAxe8SuuXi/Zm8=
 			</data>
 		</dict>
 	</dict>
