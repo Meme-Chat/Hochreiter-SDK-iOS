@@ -13,7 +13,7 @@ public struct CatagoriesMemes : Swift.Codable {
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
-public struct Hochreiter {
+public struct HochreiterSDK {
   public static func configure(uname: Swift.String, pass: Swift.String)
   public static func logMemeShared(mid: Swift.Int)
   public static func logMemeViewed(mid: Swift.Int)
