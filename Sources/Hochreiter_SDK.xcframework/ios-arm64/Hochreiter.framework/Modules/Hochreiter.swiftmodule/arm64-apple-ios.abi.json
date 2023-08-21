@@ -1312,798 +1312,798 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Corp\/CatagoriesMemes.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Corp\/CatagoriesMemes.swift",
       "kind": "StringLiteral",
       "offset": 326,
       "length": 9,
       "value": "\"objects\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Corp\/CatagoriesMemes.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Corp\/CatagoriesMemes.swift",
       "kind": "StringLiteral",
       "offset": 326,
       "length": 9,
       "value": "\"objects\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
       "kind": "StringLiteral",
       "offset": 189,
       "length": 18,
       "value": "\"app.memechat.www\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
       "kind": "StringLiteral",
       "offset": 219,
       "length": 7,
       "value": "\"debug\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
       "kind": "BooleanLiteral",
       "offset": 267,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
       "kind": "BooleanLiteral",
       "offset": 597,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
       "kind": "StringLiteral",
       "offset": 768,
       "length": 8,
       "value": "\"userID\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
       "kind": "StringLiteral",
       "offset": 826,
       "length": 10,
       "value": "\"password\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
       "kind": "StringLiteral",
       "offset": 906,
       "length": 7,
       "value": "\"token\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
       "kind": "StringLiteral",
       "offset": 1049,
       "length": 17,
       "value": "\"AuthTokenExpire\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
       "kind": "StringLiteral",
       "offset": 1268,
       "length": 13,
       "value": "\"meme_shared\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
       "kind": "IntegerLiteral",
       "offset": 1298,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
       "kind": "StringLiteral",
       "offset": 1482,
       "length": 13,
       "value": "\"meme_viewed\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
       "kind": "IntegerLiteral",
       "offset": 1512,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
       "kind": "BooleanLiteral",
       "offset": 1591,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
       "kind": "StringLiteral",
       "offset": 1781,
       "length": 18,
       "value": "\"www.memechat.app\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
       "kind": "StringLiteral",
       "offset": 1817,
       "length": 21,
       "value": "\"SDK not Initialized\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
       "kind": "IntegerLiteral",
       "offset": 1855,
       "length": 3,
       "value": "404"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
       "kind": "StringLiteral",
       "offset": 3259,
       "length": 18,
       "value": "\"www.memechat.app\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
       "kind": "StringLiteral",
       "offset": 3295,
       "length": 21,
       "value": "\"SDK not Initialized\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
       "kind": "IntegerLiteral",
       "offset": 3333,
       "length": 3,
       "value": "404"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
       "kind": "StringLiteral",
       "offset": 4092,
       "length": 18,
       "value": "\"www.memechat.app\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
       "kind": "StringLiteral",
       "offset": 4128,
       "length": 21,
       "value": "\"SDK not Initialized\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/HochreiterSDK.swift",
       "kind": "IntegerLiteral",
       "offset": 4166,
       "length": 3,
       "value": "404"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Corp\/SearchMemes.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Corp\/SearchMemes.swift",
       "kind": "StringLiteral",
       "offset": 312,
       "length": 9,
       "value": "\"objects\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Corp\/SearchMemes.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Corp\/SearchMemes.swift",
       "kind": "StringLiteral",
       "offset": 312,
       "length": 9,
       "value": "\"objects\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
       "kind": "StringLiteral",
       "offset": 164,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
       "kind": "StringLiteral",
       "offset": 197,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 234,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
       "kind": "StringLiteral",
       "offset": 271,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
       "kind": "StringLiteral",
       "offset": 312,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 350,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
       "kind": "StringLiteral",
       "offset": 390,
-      "length": 49,
-      "value": "\"https:\/\/hochreiter-test-zqmkklp5ba-el.a.run.app\""
+      "length": 38,
+      "value": "\"https:\/\/hochreiter-api.memechat.biz\/\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
       "kind": "StringLiteral",
-      "offset": 580,
+      "offset": 569,
       "length": 28,
       "value": "\"yyyy-MM-dd'T'HH:mm:ss.SSSZ\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
       "kind": "StringLiteral",
-      "offset": 665,
+      "offset": 654,
       "length": 5,
       "value": "\"UTC\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 829,
+      "offset": 818,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 977,
+      "offset": 966,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 1036,
+      "offset": 1025,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 1102,
+      "offset": 1091,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1237,
+      "offset": 1226,
       "length": 5,
       "value": "\"\\n\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/HochConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1250,
+      "offset": 1239,
       "length": 4,
       "value": "\"\n\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Corp\/MediaLinks.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Corp\/MediaLinks.swift",
       "kind": "StringLiteral",
       "offset": 292,
       "length": 9,
       "value": "\"objects\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Corp\/MediaLinks.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Corp\/MediaLinks.swift",
       "kind": "StringLiteral",
       "offset": 292,
       "length": 9,
       "value": "\"objects\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "StringLiteral",
       "offset": 164,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "StringLiteral",
       "offset": 186,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "StringLiteral",
       "offset": 164,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "StringLiteral",
       "offset": 186,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "StringLiteral",
       "offset": 1515,
       "length": 18,
       "value": "\"app.memechat.www\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "StringLiteral",
       "offset": 1545,
       "length": 7,
       "value": "\"debug\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "StringLiteral",
       "offset": 1862,
       "length": 31,
       "value": "\"HttpUtility.AuthRequestsQueue\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "BooleanLiteral",
       "offset": 3000,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "BooleanLiteral",
       "offset": 3379,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "BooleanLiteral",
       "offset": 3680,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "StringLiteral",
       "offset": 3725,
       "length": 48,
       "value": "\"Hochreiter : User Auth Failed , \""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "StringLiteral",
       "offset": 3772,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "StringLiteral",
       "offset": 3831,
       "length": 12,
       "value": "\"%{public}@\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "StringLiteral",
       "offset": 5103,
       "length": 7,
       "value": "\"token\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "StringLiteral",
       "offset": 6273,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "StringLiteral",
       "offset": 6313,
       "length": 14,
       "value": "\"content-type\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "IntegerLiteral",
       "offset": 6992,
       "length": 3,
       "value": "200"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "IntegerLiteral",
       "offset": 7062,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "IntegerLiteral",
       "offset": 7870,
       "length": 2,
       "value": "99"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "IntegerLiteral",
       "offset": 8356,
       "length": 2,
       "value": "99"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "StringLiteral",
       "offset": 8552,
       "length": 18,
       "value": "\"www.memechat.app\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "StringLiteral",
       "offset": 8588,
       "length": 22,
       "value": "\"Something Went Wrong\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "IntegerLiteral",
       "offset": 8641,
       "length": 2,
       "value": "99"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "Array",
       "offset": 10055,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/NetworkLayer.swift",
       "kind": "IntegerLiteral",
       "offset": 10298,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 1099,
       "length": 68,
       "value": "\"https:\/\/asia-south1-memechatapi.cloudfunctions.net\/Hoch-URLGetter\/\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 1841,
       "length": 22,
       "value": "\"Unable To Parse Data\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 1880,
       "length": 3,
       "value": "200"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 2404,
       "length": 46,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 2432,
       "length": 1,
       "value": "\"\/auth\/corp\/login\/\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 3160,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 3244,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 3332,
       "length": 7,
       "value": "\"token\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 3425,
       "length": 17,
       "value": "\"AuthTokenExpire\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 3630,
       "length": 22,
       "value": "\"Unable To Parse Data\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 3669,
       "length": 3,
       "value": "200"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 4175,
       "length": 45,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 4203,
       "length": 1,
       "value": "\"\/corp\/log-event\/\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 5000,
       "length": 92,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 5028,
       "length": 1,
       "value": "\"\/corp\/categories\/?emoticon_titles=\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 5091,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 5607,
       "length": 22,
       "value": "\"Unable To Parse Data\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 5646,
       "length": 3,
       "value": "200"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 6268,
       "length": 79,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 6296,
       "length": 1,
       "value": "\"\/corp\/category-memes\/?cat_id=\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 6333,
       "length": 1,
       "value": "\"&page=\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 6346,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 6987,
       "length": 22,
       "value": "\"Unable To Parse Data\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 7026,
       "length": 3,
       "value": "200"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 7657,
       "length": 89,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 7685,
       "length": 1,
       "value": "\"\/corp\/search-memes\/?page=\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 7717,
       "length": 1,
       "value": "\"&search_string=\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 7745,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "StringLiteral",
       "offset": 8372,
       "length": 22,
       "value": "\"Unable To Parse Data\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Helpers\/APIHandler.swift",
       "kind": "IntegerLiteral",
       "offset": 8411,
       "length": 3,
       "value": "200"
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Corp\/Categories.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Corp\/Categories.swift",
       "kind": "StringLiteral",
       "offset": 291,
       "length": 9,
       "value": "\"objects\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Corp\/Categories.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Corp\/Categories.swift",
       "kind": "StringLiteral",
       "offset": 291,
       "length": 9,
       "value": "\"objects\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
       "kind": "StringLiteral",
       "offset": 242,
       "length": 12,
       "value": "\"corp_uname\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
       "kind": "StringLiteral",
       "offset": 279,
       "length": 11,
       "value": "\"corp_pass\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
       "kind": "StringLiteral",
       "offset": 315,
       "length": 11,
       "value": "\"corp_uuid\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
       "kind": "StringLiteral",
       "offset": 242,
       "length": 12,
       "value": "\"corp_uname\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
       "kind": "StringLiteral",
       "offset": 279,
       "length": 11,
       "value": "\"corp_pass\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
       "kind": "StringLiteral",
       "offset": 315,
       "length": 11,
       "value": "\"corp_uuid\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
       "kind": "StringLiteral",
       "offset": 611,
       "length": 14,
       "value": "\"access_token\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
       "kind": "StringLiteral",
       "offset": 651,
       "length": 12,
       "value": "\"token_type\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
       "kind": "StringLiteral",
       "offset": 686,
       "length": 14,
       "value": "\"token_expiry\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
       "kind": "StringLiteral",
       "offset": 611,
       "length": 14,
       "value": "\"access_token\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
       "kind": "StringLiteral",
       "offset": 651,
       "length": 12,
       "value": "\"token_type\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
       "kind": "StringLiteral",
       "offset": 686,
       "length": 14,
       "value": "\"token_expiry\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
       "kind": "StringLiteral",
       "offset": 848,
       "length": 10,
       "value": "\"base_url\""
     },
     {
-      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
+      "filePath": "\/Users\/mishaludeshi\/Desktop\/memechat\/Hochreiter\/iOS-Hochreiter-SDK\/Hochreiter\/Models\/Auth\/Login.swift",
       "kind": "StringLiteral",
       "offset": 848,
       "length": 10,
