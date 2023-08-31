@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/Hochreiter.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		tAeNBMON4L58y83cGO0fEwtAsQo=
+		7Bc+aV80c0EgivPLVEbmjGrgv5U=
 		</data>
 		<key>Modules/Hochreiter.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/Hochreiter.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ZWRSQ8NXsLC1pY6bZdELeJn4B4Q=
+		5bXV8Bmc6lRbDoNL+W9oHpIWyvI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,7 +61,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			j5OrQGily6VWNrcne8JeLV8s7sn4QFGg7hHuel4b5yk=
+			IJnK8g/aYbHQMfmp77I/q+h/H/3RLXX3yJ7OHbUks2M=
 			</data>
 		</dict>
 		<key>Modules/Hochreiter.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -89,7 +89,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T/tuX9OUq+4u9XMvNpcNwLMXpJU8u5hnIgLIq5Cf0uQ=
+			DPN+0FRTSeUlYKPO/fVRTVaa+hA9pdM23sjDuXW3bKA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
